@@ -41,7 +41,7 @@
             <entry file="file://$PROJECT_DIR$/src/main/java/Management/Manager.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="240">
-                  <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+                  <caret line="16" selection-start-line="16" selection-end-line="16" />
                   <folding>
                     <element signature="e#291#292#0" expanded="true" />
                     <element signature="e#317#318#0" expanded="true" />
@@ -53,12 +53,16 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/MangerTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="288">
-                  <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+                <state relative-caret-position="243">
+                  <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="e#294#295#0" expanded="true" />
                     <element signature="e#315#316#0" expanded="true" />
+                    <element signature="e#423#424#0" expanded="true" />
+                    <element signature="e#453#454#0" expanded="true" />
+                    <element signature="e#535#536#0" expanded="true" />
+                    <element signature="e#568#569#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -71,7 +75,7 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/Staff/Employee.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="318">
+                <state relative-caret-position="330">
                   <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
                   <folding>
                     <element signature="e#475#476#0" expanded="true" />
@@ -92,6 +96,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -107,6 +114,7 @@
     <option name="width" value="1280" />
     <option name="height" value="726" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -134,13 +142,6 @@
               <item name="Inheritance" type="b2602c69:ProjectViewProjectNode" />
               <item name="day_1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Inheritance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day_1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
           </expand>
@@ -163,7 +164,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MangerTest.canGetDeptName">
+  <component name="RunManager" selected="JUnit.MangerTest.canPayBonus">
     <configuration name="MangerTest.canGetDeptName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.codeclan.inheritance.Inheritance.test" />
       <option name="PACKAGE_NAME" value="" />
@@ -194,8 +195,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MangerTest.canPayBonus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.codeclan.inheritance.Inheritance.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MangerTest" />
+      <option name="METHOD_NAME" value="canPayBonus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MangerTest.canPayBonus" />
         <item itemvalue="JUnit.MangerTest.canGetDeptName" />
         <item itemvalue="JUnit.MangerTest.canGetSalary" />
         <item itemvalue="JUnit.MangerTest.canGetNiNumber" />
@@ -215,8 +227,22 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="MangerTest_canGetNiNumber - 2019.04.01 at 23h 15m 11s.xml">
+      <configuration name="MangerTest.canGetNiNumber" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MangerTest_canGetSalary - 2019.04.01 at 23h 15m 45s.xml">
+      <configuration name="MangerTest.canGetSalary" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MangerTest_canGetSalary - 2019.04.01 at 23h 16m 19s.xml">
+      <configuration name="MangerTest.canGetSalary" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MangerTest_canGetDeptName - 2019.04.01 at 23h 17m 21s.xml">
+      <configuration name="MangerTest.canGetDeptName" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="327" width="1280" height="726" extended-state="0" />
+    <frame x="2" y="103" width="1280" height="726" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -225,12 +251,13 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16235864" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.329653" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" visible="true" weight="0.329653" />
+      <window_info anchor="bottom" id="Build" weight="0.329653" />
+      <window_info anchor="bottom" id="Messages" weight="0.329653" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329653" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -263,7 +290,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Management/Manager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="e#291#292#0" expanded="true" />
             <element signature="e#317#318#0" expanded="true" />
@@ -273,12 +300,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/MangerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        <state relative-caret-position="243">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#294#295#0" expanded="true" />
             <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
           </folding>
         </state>
       </provider>

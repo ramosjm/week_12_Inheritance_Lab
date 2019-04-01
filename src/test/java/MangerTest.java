@@ -28,4 +28,9 @@ public class MangerTest {
         assertEquals("HR",manager.getDeptName());
     }
 
+    @Test
+    public void canPayBonus(){
+        assertEquals(100.4*0.01,manager.payBonus(), 0.001);
+    }
+
 }
