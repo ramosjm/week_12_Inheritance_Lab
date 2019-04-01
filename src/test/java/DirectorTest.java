@@ -29,7 +29,7 @@ public class DirectorTest {
 
     @Test
     public void canPayBonus(){
-        assertEquals(300.20*0.01,director.payBonus(), 0.001);
+        assertEquals(300.20*0.02,director.payBonus(), 0.001);
     }
 
     @Test
