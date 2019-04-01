@@ -20,7 +20,8 @@ public class EmployeeTest {
         assertEquals("AA1122",employee.getNiNumber());
     }
 
+    @Test
     public void managerAsEmployeeGetSalary(){
-
+        assertEquals(150.55,employee.getSalary(), 0.001);
     }
 }
