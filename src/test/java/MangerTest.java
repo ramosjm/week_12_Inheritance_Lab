@@ -23,4 +23,9 @@ public class MangerTest {
         assertEquals(100.40,manager.getSalary(), 0.001);
     }
 
+    @Test
+    public void canGetDeptName(){
+        assertEquals("HR",manager.getDeptName());
+    }
+
 }

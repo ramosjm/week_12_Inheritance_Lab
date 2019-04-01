@@ -163,7 +163,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MangerTest.canGetSalary">
+  <component name="RunManager" selected="JUnit.MangerTest.canGetDeptName">
+    <configuration name="MangerTest.canGetDeptName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.codeclan.inheritance.Inheritance.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MangerTest" />
+      <option name="METHOD_NAME" value="canGetDeptName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MangerTest.canGetNiNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.codeclan.inheritance.Inheritance.test" />
       <option name="PACKAGE_NAME" value="" />
@@ -186,6 +196,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MangerTest.canGetDeptName" />
         <item itemvalue="JUnit.MangerTest.canGetSalary" />
         <item itemvalue="JUnit.MangerTest.canGetNiNumber" />
       </list>
