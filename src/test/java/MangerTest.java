@@ -19,5 +19,8 @@ public class MangerTest {
         assertEquals("ab12345",manager.getNiNumber());
     }
     @Test
+    public void canGetSalary(){
+        assertEquals(100.40,manager.getSalary());
+    }
 
 }

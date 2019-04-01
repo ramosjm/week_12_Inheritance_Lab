@@ -103,7 +103,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="2" />
-    <option name="y" value="327" />
+    <option name="y" value="103" />
     <option name="width" value="1280" />
     <option name="height" value="726" />
   </component>
@@ -162,6 +162,23 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="MangerTest.canGetNiNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.codeclan.inheritance.Inheritance.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MangerTest" />
+      <option name="METHOD_NAME" value="canGetNiNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MangerTest.canGetNiNumber" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
