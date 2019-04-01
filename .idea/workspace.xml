@@ -168,7 +168,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.EmployeeTest.managerAsEmployee">
+  <component name="RunManager" selected="JUnit.EmployeeTest">
+    <configuration name="EmployeeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.codeclan.inheritance.Inheritance.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EmployeeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EmployeeTest.managerAsEmployee" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.codeclan.inheritance.Inheritance.test" />
       <option name="PACKAGE_NAME" value="" />
@@ -184,16 +193,6 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MangerTest" />
       <option name="METHOD_NAME" value="canGetDeptName" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MangerTest.canGetSalary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.codeclan.inheritance.Inheritance.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MangerTest" />
-      <option name="METHOD_NAME" value="canGetSalary" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -221,11 +220,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.EmployeeTest" />
         <item itemvalue="JUnit.EmployeeTest.managerAsEmployee" />
         <item itemvalue="JUnit.MangerTest.canRaiseSalary" />
         <item itemvalue="JUnit.MangerTest.canPayBonus" />
         <item itemvalue="JUnit.MangerTest.canGetDeptName" />
-        <item itemvalue="JUnit.MangerTest.canGetSalary" />
       </list>
     </recent_temporary>
   </component>
