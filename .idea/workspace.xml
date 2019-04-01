@@ -38,14 +38,18 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/DeveloperTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="285">
-                  <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+                <state relative-caret-position="342">
+                  <caret line="33" column="55" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="e#155#156#0" expanded="true" />
                     <element signature="e#185#186#0" expanded="true" />
                     <element signature="e#279#280#0" expanded="true" />
                     <element signature="e#301#302#0" expanded="true" />
+                    <element signature="e#426#427#0" expanded="true" />
+                    <element signature="e#486#487#0" expanded="true" />
+                    <element signature="e#532#533#0" expanded="true" />
+                    <element signature="e#562#563#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -84,8 +88,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/MangerTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="83">
-                  <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+                <state relative-caret-position="187">
+                  <caret line="31" column="17" lean-forward="true" selection-start-line="30" selection-start-column="3" selection-end-line="31" selection-end-column="17" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -130,8 +134,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2" />
-    <option name="y" value="103" />
+    <option name="y" value="36" />
     <option name="width" value="1280" />
     <option name="height" value="726" />
   </component>
@@ -207,7 +210,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DeveloperTest.canPayBonus">
+  <component name="RunManager" selected="JUnit.DeveloperTest.canRaiseSalary">
     <configuration name="DeveloperTest.canGetNiNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.codeclan.inheritance.Inheritance.test" />
       <option name="PACKAGE_NAME" value="" />
@@ -238,6 +241,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DeveloperTest.canRaiseSalary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.codeclan.inheritance.Inheritance.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DeveloperTest" />
+      <option name="METHOD_NAME" value="canRaiseSalary" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EmployeeTest.managerAsEmployeeCanPayBonus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.codeclan.inheritance.Inheritance.test" />
       <option name="PACKAGE_NAME" value="" />
@@ -248,23 +261,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeTest.managerAsEmployeeCanRaiseSalary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.codeclan.inheritance.Inheritance.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EmployeeTest" />
-      <option name="METHOD_NAME" value="managerAsEmployeeCanRaiseSalary" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DeveloperTest.canRaiseSalary" />
         <item itemvalue="JUnit.DeveloperTest.canPayBonus" />
         <item itemvalue="JUnit.DeveloperTest.canGetSalary" />
         <item itemvalue="JUnit.DeveloperTest.canGetNiNumber" />
         <item itemvalue="JUnit.EmployeeTest.managerAsEmployeeCanPayBonus" />
-        <item itemvalue="JUnit.EmployeeTest.managerAsEmployeeCanRaiseSalary" />
       </list>
     </recent_temporary>
   </component>
@@ -282,18 +285,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MangerTest_canGetDeptName - 2019.04.01 at 23h 17m 21s.xml">
-      <configuration name="MangerTest.canGetDeptName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MangerTest_canPayBonus - 2019.04.01 at 23h 20m 00s.xml">
-      <configuration name="MangerTest.canPayBonus" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MangerTest_canRaiseSalary - 2019.04.01 at 23h 21m 58s.xml">
-      <configuration name="MangerTest.canRaiseSalary" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MangerTest_canRaiseSalary - 2019.04.01 at 23h 22m 11s.xml">
-      <configuration name="MangerTest.canRaiseSalary" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="EmployeeTest_managerAsEmployee - 2019.04.01 at 23h 30m 41s.xml">
       <configuration name="EmployeeTest.managerAsEmployee" configurationId="JUnit" />
     </history-entry>
@@ -312,9 +303,21 @@
     <history-entry file="EmployeeTest_managerAsEmployeeCanPayBonus - 2019.04.01 at 23h 37m 51s.xml">
       <configuration name="EmployeeTest.managerAsEmployeeCanPayBonus" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="DeveloperTest_canGetNiNumber - 2019.04.01 at 23h 53m 37s.xml">
+      <configuration name="DeveloperTest.canGetNiNumber" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DeveloperTest_canGetSalary - 2019.04.01 at 23h 54m 47s.xml">
+      <configuration name="DeveloperTest.canGetSalary" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DeveloperTest_canPayBonus - 2019.04.01 at 23h 56m 35s.xml">
+      <configuration name="DeveloperTest.canPayBonus" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DeveloperTest_canPayBonus - 2019.04.01 at 23h 56m 56s.xml">
+      <configuration name="DeveloperTest.canPayBonus" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="103" width="1280" height="726" extended-state="0" />
+    <frame x="0" y="36" width="1280" height="726" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -323,7 +326,7 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16235864" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.27760252" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.27602524" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Build" weight="0.329653" />
       <window_info anchor="bottom" id="Messages" weight="0.329653" />
@@ -383,16 +386,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/MangerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/techStaff/Developer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -404,16 +397,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MangerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="31" column="17" lean-forward="true" selection-start-line="30" selection-start-column="3" selection-end-line="31" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/DeveloperTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        <state relative-caret-position="342">
+          <caret line="33" column="55" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#155#156#0" expanded="true" />
             <element signature="e#185#186#0" expanded="true" />
             <element signature="e#279#280#0" expanded="true" />
             <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
           </folding>
         </state>
       </provider>
