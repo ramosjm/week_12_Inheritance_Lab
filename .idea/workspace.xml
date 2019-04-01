@@ -210,7 +210,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DeveloperTest.canRaiseSalary">
+  <component name="RunManager" selected="JUnit.DataBaseAdminTest">
+    <configuration name="DataBaseAdminTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.codeclan.inheritance.Inheritance.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DataBaseAdminTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DeveloperTest.canGetNiNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.codeclan.inheritance.Inheritance.test" />
       <option name="PACKAGE_NAME" value="" />
@@ -251,23 +260,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeTest.managerAsEmployeeCanPayBonus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.codeclan.inheritance.Inheritance.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EmployeeTest" />
-      <option name="METHOD_NAME" value="managerAsEmployeeCanPayBonus" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DataBaseAdminTest" />
         <item itemvalue="JUnit.DeveloperTest.canRaiseSalary" />
         <item itemvalue="JUnit.DeveloperTest.canPayBonus" />
         <item itemvalue="JUnit.DeveloperTest.canGetSalary" />
         <item itemvalue="JUnit.DeveloperTest.canGetNiNumber" />
-        <item itemvalue="JUnit.EmployeeTest.managerAsEmployeeCanPayBonus" />
       </list>
     </recent_temporary>
   </component>
