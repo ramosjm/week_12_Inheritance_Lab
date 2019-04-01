@@ -20,7 +20,7 @@ public class MangerTest {
     }
     @Test
     public void canGetSalary(){
-        assertEquals(100.40,manager.getSalary());
+        assertEquals(100.40,manager.getSalary(), 0.001);
     }
 
 }
