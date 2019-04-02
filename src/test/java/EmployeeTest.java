@@ -11,7 +11,7 @@ public class EmployeeTest {
 
     @Before
     public void before(){
-        employee = new Manager("AA1122",150.55,"DevOps");
+        employee = new Manager("Sandra","AA1122",150.55,"DevOps");
     }
 
 

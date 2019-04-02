@@ -10,7 +10,7 @@ public class DataBaseAdminTest {
 
     @Before
     public void before(){
-        dataBaseAdmin = new DataBaseAdmin("CC345",350.80);
+        dataBaseAdmin = new DataBaseAdmin("Connor","CC345",350.80);
     }
 
     @Test
